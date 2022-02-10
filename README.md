@@ -8,9 +8,9 @@
 
 - :computer: I am an undergraduate learning **Computer Science and Engineering** at NIT, Warangal
 
-- :seedling: I am looking forward to learn **Java**
+- :seedling: I am looking forward to learn **Flutter**
 
-- :iphone: I am currently learning **Flutter**
+- :iphone: I am currently learning **Django**
 
 - :smile: **Pronouns:** He/His
 
