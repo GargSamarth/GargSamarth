@@ -54,7 +54,3 @@
 <img align="center" width="26px" src="https://github.com/GargSamarth/GargSamarth/blob/main/assets/gmail.png" />
 </a>
 <br>
-
-### Visitors Count :eyes:
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=GargSamarth)
